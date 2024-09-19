@@ -1,4 +1,5 @@
 package edu.guilford;
+// Foy Lane 9/19/24
 import java.util.Random; // allows us to use random commands from library not on basic java 
 import java.util.Scanner;// same things but for scanner 
 
